@@ -1,4 +1,4 @@
-# Honours-Project---STAT-4905
+# Honours Project : STAT 4905
 
 **Term:** Winter 2024
 
